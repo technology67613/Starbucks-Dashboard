@@ -1,0 +1,300 @@
+order_id,order_date,order_time,outlet,item_name,category,size,quantity,unit_price,total_amount,payment_method,order_type
+SBX-PAT-5214,2025-07-01,14:03,P&M Mall,Cold Brew,Cold Beverages,Tall,3,245,735,Starbucks App Wallet,Delivery
+SBX-PAT-5089,2025-07-01,21:02,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,UPI,Dine-in
+SBX-PAT-5194,2025-07-02,09:27,P&M Mall,Hot Chocolate,Hot Beverages,Tall,1,235,235,Credit/Debit Card,Dine-in
+SBX-PAT-5018,2025-07-02,13:08,P&M Mall,Starbucks Tumbler,Merchandise,Regular,1,1495,1495,Credit/Debit Card,Delivery
+SBX-PAT-5090,2025-07-04,10:36,P&M Mall,Butter Croissant,Bakery,Regular,2,175,350,Credit/Debit Card,Delivery
+SBX-PAT-5243,2025-07-04,17:12,P&M Mall,City Mug - Patna,Merchandise,Regular,1,895,895,Starbucks App Wallet,Dine-in
+SBX-PAT-5052,2025-07-04,21:47,P&M Mall,Cappuccino,Hot Beverages,Short,3,185,555,Cash,Delivery
+SBX-PAT-5045,2025-07-05,10:59,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,Credit/Debit Card,Delivery
+SBX-PAT-5055,2025-07-05,18:21,P&M Mall,Iced Caffe Latte,Cold Beverages,Tall,2,235,470,Credit/Debit Card,Takeaway
+SBX-PAT-5136,2025-07-05,19:17,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,Starbucks App Wallet,Dine-in
+SBX-PAT-5072,2025-07-05,20:05,P&M Mall,Chocolate Cake Pop,Bakery,Regular,2,145,290,Credit/Debit Card,Takeaway
+SBX-PAT-5157,2025-07-05,21:23,P&M Mall,Cappuccino,Hot Beverages,Tall,2,215,430,Cash,Dine-in
+SBX-PAT-5169,2025-07-06,13:00,P&M Mall,Java Chip Frappuccino,Cold Beverages,Tall,1,285,285,Credit/Debit Card,Takeaway
+SBX-PAT-5111,2025-07-06,21:09,P&M Mall,Hot Chocolate,Hot Beverages,Grande,1,265,265,Starbucks App Wallet,Dine-in
+SBX-PAT-5253,2025-07-07,15:24,P&M Mall,Americano,Hot Beverages,Short,1,165,165,Cash,Dine-in
+SBX-PAT-5134,2025-07-07,19:08,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,Cash,Takeaway
+SBX-PAT-5237,2025-07-07,20:46,P&M Mall,Cappuccino,Hot Beverages,Tall,1,215,215,Starbucks App Wallet,Delivery
+SBX-PAT-5025,2025-07-08,15:47,P&M Mall,Hot Chocolate,Hot Beverages,Grande,1,265,265,Credit/Debit Card,Dine-in
+SBX-PAT-5190,2025-07-09,12:11,P&M Mall,Starbucks Tumbler,Merchandise,Regular,1,1495,1495,UPI,Delivery
+SBX-PAT-5119,2025-07-09,17:58,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,2,285,570,Starbucks App Wallet,Takeaway
+SBX-PAT-5096,2025-07-09,19:28,P&M Mall,Espresso,Hot Beverages,Doppio,3,175,525,Starbucks App Wallet,Takeaway
+SBX-PAT-5233,2025-07-10,09:18,P&M Mall,Hot Chocolate,Hot Beverages,Tall,2,235,470,UPI,Delivery
+SBX-PAT-5028,2025-07-10,11:03,P&M Mall,Blueberry Muffin,Bakery,Regular,1,195,195,Starbucks App Wallet,Delivery
+SBX-PAT-5037,2025-07-10,15:02,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,1,285,285,UPI,Delivery
+SBX-PAT-5211,2025-07-10,16:55,P&M Mall,Hot Chocolate,Hot Beverages,Tall,1,235,235,Cash,Delivery
+SBX-PAT-5176,2025-07-11,08:04,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,1,285,285,Credit/Debit Card,Takeaway
+SBX-PAT-5227,2025-07-11,15:15,P&M Mall,Cheese Danish,Bakery,Regular,1,185,185,Starbucks App Wallet,Delivery
+SBX-PAT-5179,2025-07-11,16:03,P&M Mall,Starbucks Tumbler,Merchandise,Regular,2,1495,2990,UPI,Dine-in
+SBX-PAT-5093,2025-07-11,16:57,P&M Mall,Club Sandwich,Food,Regular,1,345,345,Starbucks App Wallet,Dine-in
+SBX-PAT-5148,2025-07-11,18:43,P&M Mall,Cold Brew,Cold Beverages,Tall,1,245,245,Starbucks App Wallet,Delivery
+SBX-PAT-5114,2025-07-11,18:58,P&M Mall,Iced Caffe Latte,Cold Beverages,Tall,1,235,235,Starbucks App Wallet,Dine-in
+SBX-PAT-5198,2025-07-11,20:05,P&M Mall,Americano,Hot Beverages,Short,3,165,495,Cash,Dine-in
+SBX-PAT-5034,2025-07-11,20:20,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Credit/Debit Card,Delivery
+SBX-PAT-5074,2025-07-12,15:52,P&M Mall,Veg Grilled Sandwich,Food,Regular,1,295,295,Starbucks App Wallet,Dine-in
+SBX-PAT-5162,2025-07-13,09:00,P&M Mall,Chocolate Cake Pop,Bakery,Regular,3,145,435,UPI,Delivery
+SBX-PAT-5076,2025-07-14,16:30,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,Starbucks App Wallet,Delivery
+SBX-PAT-5175,2025-07-14,16:34,P&M Mall,Starbucks Tumbler,Merchandise,Regular,1,1495,1495,Credit/Debit Card,Dine-in
+SBX-PAT-5217,2025-07-15,10:17,P&M Mall,Caffe Latte,Hot Beverages,Grande,1,255,255,Cash,Takeaway
+SBX-PAT-5197,2025-07-15,11:05,P&M Mall,Chocolate Cake Pop,Bakery,Regular,2,145,290,Cash,Takeaway
+SBX-PAT-5189,2025-07-15,11:17,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,Credit/Debit Card,Delivery
+SBX-PAT-5222,2025-07-15,18:35,P&M Mall,Java Chip Frappuccino,Cold Beverages,Tall,1,285,285,UPI,Dine-in
+SBX-PAT-5254,2025-07-15,19:14,P&M Mall,Java Chip Frappuccino,Cold Beverages,Tall,1,285,285,Credit/Debit Card,Delivery
+SBX-PAT-5113,2025-07-15,21:02,P&M Mall,Espresso,Hot Beverages,Doppio,1,175,175,Starbucks App Wallet,Takeaway
+SBX-PAT-5196,2025-07-16,10:39,P&M Mall,Coffee Beans 250g,Merchandise,Regular,1,650,650,UPI,Dine-in
+SBX-PAT-5069,2025-07-16,11:44,P&M Mall,Cappuccino,Hot Beverages,Short,2,185,370,Credit/Debit Card,Delivery
+SBX-PAT-5200,2025-07-16,13:38,P&M Mall,Cappuccino,Hot Beverages,Tall,1,215,215,Cash,Dine-in
+SBX-PAT-5095,2025-07-16,16:00,P&M Mall,Blueberry Muffin,Bakery,Regular,1,195,195,UPI,Delivery
+SBX-PAT-5063,2025-07-16,17:38,P&M Mall,Blueberry Muffin,Bakery,Regular,1,195,195,Starbucks App Wallet,Takeaway
+SBX-PAT-5251,2025-07-16,18:35,P&M Mall,Hot Chocolate,Hot Beverages,Tall,3,235,705,Starbucks App Wallet,Dine-in
+SBX-PAT-5166,2025-07-18,10:19,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Starbucks App Wallet,Dine-in
+SBX-PAT-5038,2025-07-19,09:19,P&M Mall,Americano,Hot Beverages,Short,1,165,165,Credit/Debit Card,Delivery
+SBX-PAT-5056,2025-07-19,13:00,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,Credit/Debit Card,Delivery
+SBX-PAT-5003,2025-07-19,18:14,P&M Mall,Coffee Beans 250g,Merchandise,Regular,1,650,650,Starbucks App Wallet,Delivery
+SBX-PAT-5180,2025-07-19,19:47,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,Starbucks App Wallet,Dine-in
+SBX-PAT-5024,2025-07-20,12:57,P&M Mall,Coffee Beans 250g,Merchandise,Regular,3,650,1950,UPI,Delivery
+SBX-PAT-5005,2025-07-20,17:05,P&M Mall,Cappuccino,Hot Beverages,Tall,1,215,215,Cash,Takeaway
+SBX-PAT-5248,2025-07-20,18:25,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,1,255,255,Credit/Debit Card,Dine-in
+SBX-PAT-5129,2025-07-21,13:33,P&M Mall,Cappuccino,Hot Beverages,Short,1,185,185,UPI,Delivery
+SBX-PAT-5212,2025-07-21,14:54,P&M Mall,City Mug - Patna,Merchandise,Regular,3,895,2685,Cash,Dine-in
+SBX-PAT-5244,2025-07-21,17:16,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,UPI,Delivery
+SBX-PAT-5009,2025-07-21,17:31,P&M Mall,Cappuccino,Hot Beverages,Grande,1,245,245,Credit/Debit Card,Delivery
+SBX-PAT-5068,2025-07-21,18:14,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Starbucks App Wallet,Dine-in
+SBX-PAT-5242,2025-07-21,21:28,P&M Mall,Cold Brew,Cold Beverages,Venti,1,305,305,Starbucks App Wallet,Dine-in
+SBX-PAT-5143,2025-07-22,09:56,P&M Mall,Espresso,Hot Beverages,Doppio,1,175,175,Starbucks App Wallet,Takeaway
+SBX-PAT-5015,2025-07-22,13:55,P&M Mall,Caffe Latte,Hot Beverages,Short,2,195,390,Starbucks App Wallet,Dine-in
+SBX-PAT-5001,2025-07-22,14:26,P&M Mall,Cheese Danish,Bakery,Regular,3,185,555,Starbucks App Wallet,Delivery
+SBX-PAT-5218,2025-07-22,18:24,P&M Mall,Coffee Beans 250g,Merchandise,Regular,3,650,1950,Cash,Dine-in
+SBX-PAT-5051,2025-07-23,13:42,P&M Mall,Club Sandwich,Food,Regular,3,345,1035,Starbucks App Wallet,Delivery
+SBX-PAT-5036,2025-07-23,17:39,P&M Mall,Caffe Latte,Hot Beverages,Short,1,195,195,Cash,Dine-in
+SBX-PAT-5102,2025-07-23,21:33,P&M Mall,Starbucks Tumbler,Merchandise,Regular,3,1495,4485,Credit/Debit Card,Takeaway
+SBX-PAT-5216,2025-07-23,21:46,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,2,285,570,Cash,Dine-in
+SBX-PAT-5020,2025-07-24,08:28,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,Credit/Debit Card,Takeaway
+SBX-PAT-5141,2025-07-24,09:21,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,Starbucks App Wallet,Takeaway
+SBX-PAT-5054,2025-07-24,14:24,P&M Mall,Espresso,Hot Beverages,Doppio,1,175,175,Starbucks App Wallet,Dine-in
+SBX-PAT-5159,2025-07-24,14:49,P&M Mall,Hot Chocolate,Hot Beverages,Grande,1,265,265,Cash,Delivery
+SBX-PAT-5002,2025-07-24,15:15,P&M Mall,Paneer Tikka Panini,Food,Regular,3,325,975,Starbucks App Wallet,Dine-in
+SBX-PAT-5106,2025-07-25,08:18,P&M Mall,City Mug - Patna,Merchandise,Regular,2,895,1790,Cash,Delivery
+SBX-PAT-5220,2025-07-25,12:06,P&M Mall,Club Sandwich,Food,Regular,1,345,345,UPI,Takeaway
+SBX-PAT-5044,2025-07-25,13:22,P&M Mall,Cappuccino,Hot Beverages,Grande,1,245,245,Starbucks App Wallet,Dine-in
+SBX-PAT-5149,2025-07-26,10:41,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,Credit/Debit Card,Takeaway
+SBX-PAT-5091,2025-07-26,10:59,P&M Mall,Cheese Danish,Bakery,Regular,1,185,185,Starbucks App Wallet,Takeaway
+SBX-PAT-5201,2025-07-26,11:01,P&M Mall,Butter Croissant,Bakery,Regular,3,175,525,Credit/Debit Card,Takeaway
+SBX-PAT-5124,2025-07-26,16:59,P&M Mall,Cold Brew,Cold Beverages,Venti,3,305,915,UPI,Delivery
+SBX-PAT-5022,2025-07-26,17:35,P&M Mall,Blueberry Muffin,Bakery,Regular,1,195,195,UPI,Takeaway
+SBX-PAT-5078,2025-07-28,11:55,P&M Mall,Starbucks Tumbler,Merchandise,Regular,2,1495,2990,Starbucks App Wallet,Dine-in
+SBX-PAT-5158,2025-07-28,13:38,P&M Mall,Iced Caffe Latte,Cold Beverages,Tall,1,235,235,UPI,Takeaway
+SBX-PAT-5061,2025-07-28,15:08,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,1,255,255,Cash,Delivery
+SBX-PAT-5192,2025-07-29,10:30,P&M Mall,Starbucks Tumbler,Merchandise,Regular,2,1495,2990,Credit/Debit Card,Takeaway
+SBX-PAT-5109,2025-07-29,10:37,P&M Mall,Hot Chocolate,Hot Beverages,Tall,1,235,235,UPI,Delivery
+SBX-PAT-5226,2025-07-29,15:47,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,3,255,765,UPI,Takeaway
+SBX-PAT-5205,2025-07-29,15:52,P&M Mall,Cold Brew,Cold Beverages,Grande,1,275,275,Starbucks App Wallet,Takeaway
+SBX-PAT-5206,2025-07-29,17:58,P&M Mall,Paneer Tikka Panini,Food,Regular,2,325,650,UPI,Delivery
+SBX-PAT-5050,2025-07-29,21:35,P&M Mall,Espresso,Hot Beverages,Doppio,3,175,525,Credit/Debit Card,Takeaway
+SBX-PAT-5178,2025-07-30,08:09,P&M Mall,Starbucks Tumbler,Merchandise,Regular,3,1495,4485,Starbucks App Wallet,Dine-in
+SBX-PAT-5246,2025-07-30,11:52,P&M Mall,Cappuccino,Hot Beverages,Short,1,185,185,UPI,Dine-in
+SBX-PAT-5173,2025-07-31,08:08,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,Starbucks App Wallet,Delivery
+SBX-PAT-5234,2025-07-31,11:54,P&M Mall,Chocolate Cake Pop,Bakery,Regular,2,145,290,Credit/Debit Card,Takeaway
+SBX-PAT-5259,2025-07-31,16:58,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,UPI,Takeaway
+SBX-PAT-5188,2025-07-31,18:03,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,Cash,Dine-in
+SBX-PAT-5181,2025-07-31,20:00,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,1,285,285,Starbucks App Wallet,Takeaway
+SBX-PAT-5116,2025-08-01,16:03,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,Cash,Delivery
+SBX-PAT-5081,2025-08-01,17:19,P&M Mall,Espresso,Hot Beverages,Solo,2,145,290,UPI,Delivery
+SBX-PAT-5258,2025-08-01,18:54,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,2,255,510,UPI,Dine-in
+SBX-PAT-5241,2025-08-01,19:17,P&M Mall,Paneer Tikka Panini,Food,Regular,2,325,650,Starbucks App Wallet,Delivery
+SBX-PAT-5125,2025-08-01,20:51,P&M Mall,Iced Caffe Latte,Cold Beverages,Tall,1,235,235,Starbucks App Wallet,Delivery
+SBX-PAT-5252,2025-08-01,20:55,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,Starbucks App Wallet,Delivery
+SBX-PAT-5016,2025-08-02,10:41,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,3,255,765,Cash,Dine-in
+SBX-PAT-5187,2025-08-02,15:05,P&M Mall,Club Sandwich,Food,Regular,1,345,345,Cash,Dine-in
+SBX-PAT-5249,2025-08-02,15:12,P&M Mall,Coffee Beans 250g,Merchandise,Regular,2,650,1300,Credit/Debit Card,Dine-in
+SBX-PAT-5059,2025-08-02,17:29,P&M Mall,Paneer Tikka Panini,Food,Regular,2,325,650,UPI,Delivery
+SBX-PAT-5203,2025-08-03,13:08,P&M Mall,Java Chip Frappuccino,Cold Beverages,Grande,1,315,315,UPI,Takeaway
+SBX-PAT-5140,2025-08-03,14:07,P&M Mall,Cappuccino,Hot Beverages,Tall,1,215,215,Starbucks App Wallet,Delivery
+SBX-PAT-5126,2025-08-04,08:34,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,Starbucks App Wallet,Takeaway
+SBX-PAT-5160,2025-08-04,11:39,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,2,255,510,Credit/Debit Card,Dine-in
+SBX-PAT-5224,2025-08-04,11:48,P&M Mall,Cold Brew,Cold Beverages,Tall,1,245,245,Credit/Debit Card,Delivery
+SBX-PAT-5067,2025-08-04,12:21,P&M Mall,Cappuccino,Hot Beverages,Tall,1,215,215,Credit/Debit Card,Dine-in
+SBX-PAT-5170,2025-08-04,12:38,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Cash,Takeaway
+SBX-PAT-5075,2025-08-04,16:28,P&M Mall,Paneer Tikka Panini,Food,Regular,2,325,650,Starbucks App Wallet,Delivery
+SBX-PAT-5035,2025-08-05,17:10,P&M Mall,City Mug - Patna,Merchandise,Regular,1,895,895,Cash,Delivery
+SBX-PAT-5236,2025-08-05,17:53,P&M Mall,Cappuccino,Hot Beverages,Tall,2,215,430,Starbucks App Wallet,Takeaway
+SBX-PAT-5123,2025-08-05,18:01,P&M Mall,Caffe Latte,Hot Beverages,Short,1,195,195,Starbucks App Wallet,Delivery
+SBX-PAT-5053,2025-08-07,10:15,P&M Mall,Cheese Danish,Bakery,Regular,2,185,370,Credit/Debit Card,Takeaway
+SBX-PAT-5185,2025-08-07,15:23,P&M Mall,Blueberry Muffin,Bakery,Regular,1,195,195,Starbucks App Wallet,Dine-in
+SBX-PAT-5084,2025-08-07,17:33,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,UPI,Dine-in
+SBX-PAT-5092,2025-08-07,17:46,P&M Mall,Americano,Hot Beverages,Tall,1,195,195,Starbucks App Wallet,Dine-in
+SBX-PAT-5146,2025-08-08,14:50,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,Credit/Debit Card,Delivery
+SBX-PAT-5043,2025-08-08,16:00,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,UPI,Delivery
+SBX-PAT-5077,2025-08-08,16:27,P&M Mall,Cappuccino,Hot Beverages,Tall,1,215,215,Credit/Debit Card,Dine-in
+SBX-PAT-5145,2025-08-08,17:50,P&M Mall,Cappuccino,Hot Beverages,Short,1,185,185,UPI,Takeaway
+SBX-PAT-5184,2025-08-09,10:19,P&M Mall,Cold Brew,Cold Beverages,Tall,3,245,735,Starbucks App Wallet,Dine-in
+SBX-PAT-5060,2025-08-09,11:08,P&M Mall,Americano,Hot Beverages,Short,1,165,165,Cash,Delivery
+SBX-PAT-5011,2025-08-09,11:10,P&M Mall,Caffe Latte,Hot Beverages,Tall,1,225,225,UPI,Delivery
+SBX-PAT-5257,2025-08-09,11:31,P&M Mall,Espresso,Hot Beverages,Doppio,1,175,175,Credit/Debit Card,Dine-in
+SBX-PAT-5221,2025-08-09,13:37,P&M Mall,Java Chip Frappuccino,Cold Beverages,Grande,1,315,315,Cash,Takeaway
+SBX-PAT-5225,2025-08-09,16:26,P&M Mall,Paneer Tikka Panini,Food,Regular,2,325,650,UPI,Takeaway
+SBX-PAT-5152,2025-08-09,19:40,P&M Mall,Blueberry Muffin,Bakery,Regular,1,195,195,Cash,Takeaway
+SBX-PAT-5144,2025-08-10,09:24,P&M Mall,Hot Chocolate,Hot Beverages,Tall,1,235,235,Cash,Takeaway
+SBX-PAT-5137,2025-08-10,12:35,P&M Mall,Hot Chocolate,Hot Beverages,Tall,1,235,235,Starbucks App Wallet,Dine-in
+SBX-PAT-5128,2025-08-10,12:46,P&M Mall,Hot Chocolate,Hot Beverages,Tall,1,235,235,Cash,Delivery
+SBX-PAT-5118,2025-08-10,13:50,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,UPI,Takeaway
+SBX-PAT-5010,2025-08-10,15:39,P&M Mall,Caffe Latte,Hot Beverages,Grande,1,255,255,Cash,Takeaway
+SBX-PAT-5115,2025-08-10,18:29,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,2,285,570,UPI,Takeaway
+SBX-PAT-5235,2025-08-10,19:42,P&M Mall,Americano,Hot Beverages,Tall,1,195,195,Cash,Takeaway
+SBX-PAT-5172,2025-08-11,12:58,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,1,285,285,UPI,Dine-in
+SBX-PAT-5026,2025-08-11,21:22,P&M Mall,Espresso,Hot Beverages,Solo,2,145,290,UPI,Delivery
+SBX-PAT-5228,2025-08-11,21:44,P&M Mall,Hot Chocolate,Hot Beverages,Tall,2,235,470,Starbucks App Wallet,Delivery
+SBX-PAT-5080,2025-08-12,13:57,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,UPI,Dine-in
+SBX-PAT-5058,2025-08-12,14:24,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,2,255,510,UPI,Takeaway
+SBX-PAT-5163,2025-08-12,15:39,P&M Mall,Cold Brew,Cold Beverages,Tall,1,245,245,Starbucks App Wallet,Dine-in
+SBX-PAT-5073,2025-08-13,13:31,P&M Mall,Cheese Danish,Bakery,Regular,1,185,185,Cash,Delivery
+SBX-PAT-5108,2025-08-13,15:32,P&M Mall,Caffe Latte,Hot Beverages,Short,2,195,390,UPI,Takeaway
+SBX-PAT-5155,2025-08-14,10:25,P&M Mall,Americano,Hot Beverages,Short,1,165,165,Credit/Debit Card,Dine-in
+SBX-PAT-5130,2025-08-14,13:30,P&M Mall,Club Sandwich,Food,Regular,1,345,345,Cash,Dine-in
+SBX-PAT-5049,2025-08-15,10:16,P&M Mall,Cheese Danish,Bakery,Regular,1,185,185,Starbucks App Wallet,Dine-in
+SBX-PAT-5204,2025-08-15,14:49,P&M Mall,Veg Grilled Sandwich,Food,Regular,1,295,295,Cash,Dine-in
+SBX-PAT-5079,2025-08-15,15:24,P&M Mall,Hot Chocolate,Hot Beverages,Tall,1,235,235,Starbucks App Wallet,Dine-in
+SBX-PAT-5232,2025-08-15,17:37,P&M Mall,Cappuccino,Hot Beverages,Short,1,185,185,Cash,Takeaway
+SBX-PAT-5164,2025-08-15,17:40,P&M Mall,City Mug - Patna,Merchandise,Regular,1,895,895,Credit/Debit Card,Delivery
+SBX-PAT-5071,2025-08-15,19:26,P&M Mall,Espresso,Hot Beverages,Solo,2,145,290,Starbucks App Wallet,Dine-in
+SBX-PAT-5135,2025-08-16,13:13,P&M Mall,Veg Grilled Sandwich,Food,Regular,2,295,590,Cash,Delivery
+SBX-PAT-5154,2025-08-17,08:09,P&M Mall,Espresso,Hot Beverages,Solo,2,145,290,Credit/Debit Card,Takeaway
+SBX-PAT-5047,2025-08-17,15:10,P&M Mall,Club Sandwich,Food,Regular,3,345,1035,UPI,Dine-in
+SBX-PAT-5017,2025-08-17,16:27,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,1,285,285,Cash,Dine-in
+SBX-PAT-5121,2025-08-17,16:33,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,1,285,285,Credit/Debit Card,Dine-in
+SBX-PAT-5094,2025-08-18,19:05,P&M Mall,Veg Grilled Sandwich,Food,Regular,3,295,885,Credit/Debit Card,Delivery
+SBX-PAT-5083,2025-08-18,21:31,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,Starbucks App Wallet,Takeaway
+SBX-PAT-5120,2025-08-19,11:16,P&M Mall,Caffe Latte,Hot Beverages,Short,1,195,195,UPI,Dine-in
+SBX-PAT-5208,2025-08-19,11:21,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Cash,Delivery
+SBX-PAT-5186,2025-08-19,11:40,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,1,285,285,UPI,Dine-in
+SBX-PAT-5171,2025-08-19,17:00,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Grande,1,285,285,Cash,Dine-in
+SBX-PAT-5107,2025-08-20,15:37,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,Cash,Takeaway
+SBX-PAT-5032,2025-08-20,17:05,P&M Mall,Cold Brew,Cold Beverages,Venti,1,305,305,Starbucks App Wallet,Delivery
+SBX-PAT-5065,2025-08-21,17:40,P&M Mall,Butter Croissant,Bakery,Regular,2,175,350,UPI,Delivery
+SBX-PAT-5112,2025-08-21,18:24,P&M Mall,Caffe Latte,Hot Beverages,Grande,1,255,255,Credit/Debit Card,Dine-in
+SBX-PAT-5122,2025-08-21,20:45,P&M Mall,City Mug - Patna,Merchandise,Regular,1,895,895,Credit/Debit Card,Dine-in
+SBX-PAT-5209,2025-08-22,11:37,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,UPI,Dine-in
+SBX-PAT-5229,2025-08-22,11:40,P&M Mall,Iced Caffe Latte,Cold Beverages,Tall,1,235,235,Credit/Debit Card,Dine-in
+SBX-PAT-5008,2025-08-22,12:28,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,UPI,Dine-in
+SBX-PAT-5240,2025-08-22,15:02,P&M Mall,Caffe Latte,Hot Beverages,Tall,1,225,225,Cash,Takeaway
+SBX-PAT-5098,2025-08-22,16:35,P&M Mall,Americano,Hot Beverages,Tall,1,195,195,UPI,Takeaway
+SBX-PAT-5087,2025-08-22,18:56,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,Cash,Dine-in
+SBX-PAT-5202,2025-08-22,21:12,P&M Mall,Java Chip Frappuccino,Cold Beverages,Grande,1,315,315,Starbucks App Wallet,Takeaway
+SBX-PAT-5019,2025-08-23,11:25,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,Starbucks App Wallet,Dine-in
+SBX-PAT-5247,2025-08-23,12:45,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,Cash,Takeaway
+SBX-PAT-5239,2025-08-24,13:49,P&M Mall,Starbucks Tumbler,Merchandise,Regular,1,1495,1495,Credit/Debit Card,Dine-in
+SBX-PAT-5029,2025-08-24,14:15,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,UPI,Dine-in
+SBX-PAT-5147,2025-08-25,09:39,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,UPI,Delivery
+SBX-PAT-5039,2025-08-25,15:03,P&M Mall,Espresso,Hot Beverages,Doppio,2,175,350,Credit/Debit Card,Dine-in
+SBX-PAT-5105,2025-08-25,17:43,P&M Mall,Club Sandwich,Food,Regular,1,345,345,Credit/Debit Card,Takeaway
+SBX-PAT-5213,2025-08-25,17:55,P&M Mall,Blueberry Muffin,Bakery,Regular,1,195,195,Cash,Takeaway
+SBX-PAT-5041,2025-08-25,19:47,P&M Mall,Coffee Beans 250g,Merchandise,Regular,1,650,650,Starbucks App Wallet,Delivery
+SBX-PAT-5238,2025-08-25,20:05,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,2,265,530,Starbucks App Wallet,Delivery
+SBX-PAT-5004,2025-08-26,08:21,P&M Mall,Cold Brew,Cold Beverages,Venti,3,305,915,Cash,Dine-in
+SBX-PAT-5195,2025-08-26,11:33,P&M Mall,Java Chip Frappuccino,Cold Beverages,Grande,1,315,315,Starbucks App Wallet,Takeaway
+SBX-PAT-5161,2025-08-26,14:46,P&M Mall,Iced Caffe Latte,Cold Beverages,Tall,1,235,235,Credit/Debit Card,Delivery
+SBX-PAT-5245,2025-08-26,21:08,P&M Mall,Cappuccino,Hot Beverages,Tall,1,215,215,Starbucks App Wallet,Takeaway
+SBX-PAT-5027,2025-08-27,15:01,P&M Mall,Cheese Danish,Bakery,Regular,1,185,185,Starbucks App Wallet,Takeaway
+SBX-PAT-5086,2025-08-27,19:18,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,1,255,255,UPI,Delivery
+SBX-PAT-5191,2025-08-27,20:08,P&M Mall,Cold Brew,Cold Beverages,Grande,1,275,275,UPI,Takeaway
+SBX-PAT-5085,2025-08-28,10:30,P&M Mall,Americano,Hot Beverages,Short,1,165,165,Cash,Delivery
+SBX-PAT-5255,2025-08-28,10:48,P&M Mall,Club Sandwich,Food,Regular,2,345,690,Starbucks App Wallet,Delivery
+SBX-PAT-5168,2025-08-28,11:32,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,1,255,255,UPI,Delivery
+SBX-PAT-5231,2025-08-28,16:06,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,UPI,Takeaway
+SBX-PAT-5066,2025-08-28,18:49,P&M Mall,Cold Brew,Cold Beverages,Grande,1,275,275,Credit/Debit Card,Dine-in
+SBX-PAT-5156,2025-08-28,19:38,P&M Mall,Veg Grilled Sandwich,Food,Regular,1,295,295,Credit/Debit Card,Dine-in
+SBX-PAT-5256,2025-08-29,14:40,P&M Mall,Butter Croissant,Bakery,Regular,2,175,350,Starbucks App Wallet,Dine-in
+SBX-PAT-5223,2025-08-29,17:18,P&M Mall,Blueberry Muffin,Bakery,Regular,3,195,585,Credit/Debit Card,Delivery
+SBX-PAT-5127,2025-08-29,17:58,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,Cash,Delivery
+SBX-PAT-5033,2025-08-29,21:10,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,Credit/Debit Card,Takeaway
+SBX-PAT-5230,2025-08-30,10:53,P&M Mall,Cappuccino,Hot Beverages,Tall,1,215,215,Credit/Debit Card,Delivery
+SBX-PAT-5014,2025-08-31,09:18,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,Starbucks App Wallet,Dine-in
+SBX-PAT-5030,2025-08-31,10:23,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,Cash,Dine-in
+SBX-PAT-5142,2025-08-31,11:41,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,UPI,Takeaway
+SBX-PAT-5103,2025-08-31,14:34,P&M Mall,Hot Chocolate,Hot Beverages,Grande,1,265,265,UPI,Takeaway
+SBX-PAT-5110,2025-08-31,18:36,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,Cash,Takeaway
+SBX-PAT-5031,2025-08-31,20:24,P&M Mall,Espresso,Hot Beverages,Solo,1,145,145,Credit/Debit Card,Takeaway
+SBX-PAT-5006,2025-09-01,10:42,P&M Mall,Caffe Latte,Hot Beverages,Short,2,195,390,Credit/Debit Card,Delivery
+SBX-PAT-5097,2025-09-01,17:11,P&M Mall,Java Chip Frappuccino,Cold Beverages,Grande,1,315,315,Credit/Debit Card,Dine-in
+SBX-PAT-5138,2025-09-02,17:29,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,Credit/Debit Card,Dine-in
+SBX-PAT-5013,2025-09-03,13:15,P&M Mall,Starbucks Tumbler,Merchandise,Regular,1,1495,1495,Starbucks App Wallet,Takeaway
+SBX-PAT-5064,2025-09-03,15:35,P&M Mall,Cold Brew,Cold Beverages,Venti,3,305,915,Credit/Debit Card,Takeaway
+SBX-PAT-5150,2025-09-04,09:11,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,2,255,510,Cash,Delivery
+SBX-PAT-5177,2025-09-04,17:51,P&M Mall,Paneer Tikka Panini,Food,Regular,1,325,325,Starbucks App Wallet,Takeaway
+SBX-PAT-5100,2025-09-04,18:42,P&M Mall,Iced Caffe Latte,Cold Beverages,Tall,1,235,235,Cash,Takeaway
+SBX-PAT-5062,2025-09-05,13:12,P&M Mall,Club Sandwich,Food,Regular,1,345,345,Starbucks App Wallet,Dine-in
+SBX-PAT-5012,2025-09-05,19:15,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Cash,Takeaway
+SBX-PAT-5165,2025-09-05,19:51,P&M Mall,City Mug - Patna,Merchandise,Regular,1,895,895,Credit/Debit Card,Dine-in
+SBX-PAT-5260,2025-09-05,21:30,P&M Mall,Caffe Latte,Hot Beverages,Tall,1,225,225,Starbucks App Wallet,Dine-in
+SBX-PAT-5132,2025-09-06,08:16,P&M Mall,Starbucks Tumbler,Merchandise,Regular,1,1495,1495,UPI,Dine-in
+SBX-PAT-5088,2025-09-06,12:59,P&M Mall,Butter Croissant,Bakery,Regular,2,175,350,Cash,Dine-in
+SBX-PAT-5046,2025-09-06,14:20,P&M Mall,Paneer Tikka Panini,Food,Regular,2,325,650,Credit/Debit Card,Dine-in
+SBX-PAT-5139,2025-09-06,19:33,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,Starbucks App Wallet,Takeaway
+SBX-PAT-5099,2026-09-09,15:58,P&M Mall,Caffe Latte,Hot Beverages,Short,1,195,195,Starbucks App Wallet,Takeaway
+SBX-PAT-5048,2026-09-09,16:07,P&M Mall,City Mug - Patna,Merchandise,Regular,3,895,2685,Cash,Dine-in
+SBX-PAT-5042,2026-09-09,16:30,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,Cash,Takeaway
+SBX-PAT-5131,2026-09-09,17:13,P&M Mall,Espresso,Hot Beverages,Doppio,3,175,525,Credit/Debit Card,Dine-in
+SBX-PAT-5193,2026-09-09,18:24,P&M Mall,Club Sandwich,Food,Regular,2,345,690,UPI,Delivery
+SBX-PAT-5153,2026-09-09,19:38,P&M Mall,Club Sandwich,Food,Regular,1,345,345,Starbucks App Wallet,Dine-in
+SBX-PAT-5021,2026-09-09,20:25,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Credit/Debit Card,Takeaway
+SBX-PAT-5219,2026-09-09,21:33,P&M Mall,Club Sandwich,Food,Regular,1,345,345,Cash,Delivery
+SBX-PAT-5215,2026-09-10,08:10,P&M Mall,Americano,Hot Beverages,Short,2,165,330,Credit/Debit Card,Dine-in
+SBX-PAT-5151,2026-09-10,14:19,P&M Mall,Starbucks Tumbler,Merchandise,Regular,1,1495,1495,UPI,Dine-in
+SBX-PAT-5057,2026-09-11,18:30,P&M Mall,Blueberry Muffin,Bakery,Regular,3,195,585,Credit/Debit Card,Takeaway
+SBX-PAT-5250,2026-09-11,19:59,P&M Mall,Espresso,Hot Beverages,Solo,1,145,145,UPI,Dine-in
+SBX-PAT-5167,2026-09-12,10:15,P&M Mall,Cold Brew,Cold Beverages,Grande,1,275,275,Credit/Debit Card,Takeaway
+SBX-PAT-5182,2026-09-12,11:54,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,Starbucks App Wallet,Takeaway
+SBX-PAT-5117,2026-09-12,14:49,P&M Mall,Coffee Beans 250g,Merchandise,Regular,1,650,650,Cash,Dine-in
+SBX-PAT-5070,2026-09-13,09:13,P&M Mall,Cold Brew,Cold Beverages,Grande,1,275,275,Cash,Delivery
+SBX-PAT-5023,2026-09-13,10:45,P&M Mall,Hot Chocolate,Hot Beverages,Grande,2,265,530,Credit/Debit Card,Takeaway
+SBX-PAT-5183,2026-09-13,15:55,P&M Mall,Caffe Latte,Hot Beverages,Short,1,195,195,UPI,Takeaway
+SBX-PAT-5104,2026-09-13,21:13,P&M Mall,Starbucks Tumbler,Merchandise,Regular,1,1495,1495,Credit/Debit Card,Delivery
+SBX-PAT-5082,2026-09-14,11:17,P&M Mall,Hot Chocolate,Hot Beverages,Tall,2,235,470,UPI,Dine-in
+SBX-PAT-5133,2026-09-14,11:58,P&M Mall,Butter Croissant,Bakery,Regular,3,175,525,Starbucks App Wallet,Takeaway
+SBX-PAT-5207,2026-09-14,16:04,P&M Mall,Caffe Latte,Hot Beverages,Tall,1,225,225,Credit/Debit Card,Takeaway
+SBX-PAT-5040,2026-09-14,18:53,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,1,255,255,UPI,Dine-in
+SBX-PAT-5210,2026-09-14,20:52,P&M Mall,Iced Caffe Latte,Cold Beverages,Tall,1,235,235,Starbucks App Wallet,Delivery
+SBX-PAT-5199,2026-09-15,10:10,P&M Mall,Chocolate Cake Pop,Bakery,Regular,2,145,290,Credit/Debit Card,Dine-in
+SBX-PAT-5007,2026-09-15,21:04,P&M Mall,Espresso,Hot Beverages,Doppio,1,175,175,Credit/Debit Card,Delivery
+SBX-PAT-5271,2026-09-16,08:08,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,Starbucks App Wallet,Takeaway
+SBX-PAT-5272,2026-09-16,09:25,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Cash,Delivery
+SBX-PAT-5269,2026-09-16,10:30,P&M Mall,Hot Chocolate,Hot Beverages,Grande,2,265,530,Cash,Takeaway
+SBX-PAT-5263,2026-09-16,10:48,P&M Mall,Mango Dragonfruit Refresher,Cold Beverages,Tall,2,255,510,Starbucks App Wallet,Delivery
+SBX-PAT-5270,2026-09-16,11:48,P&M Mall,Veg Grilled Sandwich,Food,Regular,1,295,295,Credit/Debit Card,Takeaway
+SBX-PAT-5266,2026-09-16,12:25,P&M Mall,Americano,Hot Beverages,Short,1,165,165,Credit/Debit Card,Delivery
+SBX-PAT-5262,2026-09-16,13:58,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,UPI,Takeaway
+SBX-PAT-5261,2026-09-16,14:05,P&M Mall,Americano,Hot Beverages,Grande,1,225,225,Starbucks App Wallet,Takeaway
+SBX-PAT-5268,2026-09-16,15:38,P&M Mall,Chocolate Cake Pop,Bakery,Regular,1,145,145,Starbucks App Wallet,Dine-in
+SBX-PAT-5273,2026-09-16,16:22,P&M Mall,Americano,Hot Beverages,Short,2,165,330,Credit/Debit Card,Dine-in
+SBX-PAT-5264,2026-09-16,16:45,P&M Mall,Cheese Danish,Bakery,Regular,1,185,185,Starbucks App Wallet,Delivery
+SBX-PAT-5101,2026-09-16,17:34,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,2,345,690,Cash,Dine-in
+SBX-PAT-5267,2026-09-16,18:40,P&M Mall,Hot Chocolate,Hot Beverages,Grande,1,265,265,Cash,Takeaway
+SBX-PAT-5265,2026-09-16,19:12,P&M Mall,Hot Chocolate,Hot Beverages,Grande,1,265,265,Credit/Debit Card,Dine-in
+SBX-PAT-5174,2026-09-16,20:58,P&M Mall,City Mug - Patna,Merchandise,Regular,2,895,1790,Credit/Debit Card,Dine-in
+
+SBX-PAT-9000,2026-09-15,17:57,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,Credit/Debit Card,Takeaway
+SBX-PAT-9001,2026-09-15,13:03,P&M Mall,Blueberry Muffin,Bakery,Regular,2,195,390,Starbucks App Wallet,Dine-in
+SBX-PAT-9002,2026-09-15,21:52,P&M Mall,Butter Croissant,Bakery,Regular,3,175,525,Cash,Delivery
+SBX-PAT-9003,2026-09-15,13:17,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Credit/Debit Card,Takeaway
+SBX-PAT-9004,2026-09-15,13:45,P&M Mall,Blueberry Muffin,Bakery,Regular,1,195,195,Cash,Delivery
+SBX-PAT-9005,2026-09-15,14:05,P&M Mall,Caramel Macchiato,Hot Beverages,Grande,3,295,885,UPI,Takeaway
+SBX-PAT-9006,2026-09-15,09:59,P&M Mall,Caffe Latte,Hot Beverages,Tall,3,255,765,Cash,Takeaway
+SBX-PAT-9007,2026-09-15,19:44,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,3,345,1035,Starbucks App Wallet,Delivery
+SBX-PAT-9008,2026-09-15,10:22,P&M Mall,Blueberry Muffin,Bakery,Regular,3,195,585,UPI,Delivery
+SBX-PAT-9009,2026-09-15,19:38,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,1,265,265,UPI,Dine-in
+SBX-PAT-9010,2026-09-15,17:18,P&M Mall,Butter Croissant,Bakery,Regular,1,175,175,UPI,Delivery
+SBX-PAT-9011,2026-09-15,17:55,P&M Mall,Caramel Macchiato,Hot Beverages,Grande,2,295,590,Starbucks App Wallet,Takeaway
+SBX-PAT-9020,2026-09-16,21:36,P&M Mall,Caramel Macchiato,Hot Beverages,Grande,2,295,590,Cash,Takeaway
+SBX-PAT-9021,2026-09-16,20:20,P&M Mall,Cold Brew,Cold Beverages,Tall,2,245,490,UPI,Takeaway
+SBX-PAT-9022,2026-09-16,10:37,P&M Mall,Cold Brew,Cold Beverages,Tall,1,245,245,Cash,Takeaway
+SBX-PAT-9023,2026-09-16,12:50,P&M Mall,Cold Brew,Cold Beverages,Tall,3,245,735,UPI,Delivery
+SBX-PAT-9024,2026-09-16,15:14,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,2,265,530,Cash,Delivery
+SBX-PAT-9025,2026-09-16,21:57,P&M Mall,Iced Caffe Latte,Cold Beverages,Grande,3,265,795,Cash,Delivery
+SBX-PAT-9026,2026-09-16,18:36,P&M Mall,Caramel Macchiato,Hot Beverages,Grande,3,295,885,Cash,Delivery
+SBX-PAT-9027,2026-09-16,16:09,P&M Mall,Caramel Macchiato,Hot Beverages,Grande,3,295,885,Starbucks App Wallet,Takeaway
+SBX-PAT-9028,2026-09-16,19:02,P&M Mall,Java Chip Frappuccino,Cold Beverages,Venti,1,345,345,Starbucks App Wallet,Delivery
+SBX-PAT-9029,2026-09-16,12:34,P&M Mall,Double Chocolate Chip Frappuccino,Cold Beverages,Grande,2,315,630,Cash,Takeaway
+SBX-PAT-9030,2026-09-16,18:12,P&M Mall,Caramel Macchiato,Hot Beverages,Grande,3,295,885,Starbucks App Wallet,Takeaway
+SBX-PAT-9031,2026-09-16,08:37,P&M Mall,Butter Croissant,Bakery,Regular,3,175,525,UPI,Takeaway
+SBX-PAT-9032,2026-09-16,20:39,P&M Mall,Caffe Latte,Hot Beverages,Tall,1,255,255,Cash,Takeaway
