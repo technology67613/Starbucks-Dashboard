@@ -1,5 +1,7 @@
 # Starbucks Patna Store Dashboard
 
+**Live Demo:** [https://starbuckdashboardpu.netlify.app/](https://starbuckdashboardpu.netlify.app/)
+
 An internal, single-store business management dashboard for Starbucks Patna (P&M Mall) staff. This project is a front-end prototype built to give the store admin a fast, accurate read on daily performance, and to manage orders, menu items, and inventory. 
 
 This project was built as a hackathon submission, focusing on functionality, UI/UX, and time efficiency.
